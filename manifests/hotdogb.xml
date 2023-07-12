@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="PolarMod/android_device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="magika" />
-  <project name="PolarMod/android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="magika" />
-  <project name="PolarMod/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="magika" />
-  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-19.1" />
-  <project name="PolarMod/android_hardware_oneplus" path="hardware/oneplus" remote="github" revision="magika" />
+    <project name="PolarMod/android_device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github"
+             revision="thunderpluck"/>
+    <project name="PolarMod/android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github"
+             revision="thunderpluck"/>
+    <project name="PolarMod/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github"
+             revision="thunderpluck"/>
+    <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="github"
+             revision="lineage-20"/>
+    <project name="PolarMod/android_hardware_oneplus" path="hardware/oneplus" remote="github" revision="thunderpluck"/>
 </manifest>    
