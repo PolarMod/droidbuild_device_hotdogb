@@ -9,5 +9,5 @@
     <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="github"
              revision="lineage-20"/>
     <project name="PolarMod/android_hardware_oneplus" path="hardware/oneplus" remote="github" revision="thunderpluck"/>
-    <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="thunderpluck"/>
+    <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="lineage-20"/>
 </manifest>    
