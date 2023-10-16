@@ -6,8 +6,7 @@
              revision="thunderpluck"/>
     <project name="crdroidandroid/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github"
              revision="13.0"/>
-    <project name="frazerecho/proprietary_vendor_oneplus-hotdogb" path="vendor/oneplus/hotdogb" remote="github"
-	    revision="13.0"/>
-    <project name="crdroidandroid/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="github" revision="13.0"/>
-    <project name="crdroidandroid/android_hardware_oplus" path="hardware/oplus" remote="github" revision="13.0-extras" />
+    <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github"
+	    revision="lineage-19.1"/>
+    <project name="crdroidandroid/android_hardware_oplus" path="hardware/oplus" remote="github" revision="13.0" />
 </manifest>    
