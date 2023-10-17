@@ -2,13 +2,13 @@
 <manifest>
     <project name="LineageOS/android_device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github"
              revision="lineage-20"/>
-    <project name="PolarMod/android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github"
-             revision="thunderpluck"/>
-    <project name="PolarMod/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github"
-             revision="thunderpluck"/>
+    <project name="LineageOS/android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github"
+             revision="lineage-20"/>
+    <project name="LineageOS/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github"
+             revision="lineage-20"/>
     <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="github"
              revision="lineage-20"/>
-    <project name="PolarMod/android_hardware_oneplus" path="hardware/oneplus" remote="github" revision="thunderpluck"/>
+    <project name="LineageOS/android_hardware_oneplus" path="hardware/oneplus" remote="github" revision="lineage-20"/>
     <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="lineage-20"/>
     <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="github" revision="lineage-20"/>
 </manifest>    
